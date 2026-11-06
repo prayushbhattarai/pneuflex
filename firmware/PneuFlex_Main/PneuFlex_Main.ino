@@ -12,8 +12,8 @@
 #define BATTERY_SENSE_ENABLED false
 #define BATTERY_PIN 35
 
-const char* ssid = "Prayush";
-const char* password = "hellohello";
+const char* ssid = "Test";
+const char* password = "12345";
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 WebServer server(80);
