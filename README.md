@@ -24,7 +24,7 @@ Intent recognition aims to interpret flex-sensor patterns to identify attempted 
 
 ## Recognition
 
-Developed by a three-person team. **3rd place in Medical Innovation at the 2026 HOSA International Leadership Conference.**
+Developed by a four-person team. **3rd place in Medical Innovation at the 2026 HOSA International Leadership Conference.**
 
 ## Status
 
